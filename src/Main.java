@@ -78,6 +78,7 @@ public class Main {
                 System.out.println("Денис теперь получает " + denisnewyear + " рублей, годовой доход вырос на " + differenceLastYearDenis + " Рублей");
                 System.out.println("Кристина теперь получает " + cristinanewyear + " рублей, годовой доход вырос на " + differenceLastYearCristina + " Рублей");
 
+
             }
         }
     }
